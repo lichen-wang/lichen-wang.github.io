@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lichen Wang / Site Title"
+title                    : "Lichen Wang"
 title_separator          : "-"
 name                     : &name "Lichen Wang"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Economics"
 url                      : https://lichen-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lichen-wang/lichen-wang.github.io"

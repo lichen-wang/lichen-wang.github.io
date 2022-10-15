@@ -1,5 +1,5 @@
 ---
-title: "Local Economic Effects of the Post-Cold War Procurement Drawdowns, Working Paper"
+title: "Local Economic Effects of the Post-Cold War Procurement Drawdowns"
 collection: publications
 permalink: /publication/Wang_JMP
 excerpt: 'Job market paper'

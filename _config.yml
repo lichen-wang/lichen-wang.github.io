@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lichen Wang"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Lichen Wang"
 description              : &description "PhD Candidate in Economics"

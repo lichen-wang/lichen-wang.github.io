@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-#(../files/paper1.pdf)
 1. **Local Economic Effects of the Post-Cold War Procurement Drawdowns** <br/>
     Working Paper
    <details><summary>Abstract</summary>   

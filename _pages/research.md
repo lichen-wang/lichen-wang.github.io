@@ -7,17 +7,17 @@ author_profile: true
 
 
 1. [Local Economic Effects of the Post-Cold War Procurement Drawdowns](../files/paper1.pdf)
-Working Paper
+   Working Paper
    <details><summary>Abstract</summary>   
-  Abstract
+   Abstract
    </details>
 
 
-**The Impacts of International Students on Local Product Markets: Evidence from College Towns** <br/>
-Working Paper <br/>
+2. [The Impacts of International Students on Local Product Markets: Evidence from College Towns] 
+   Working Paper <br/>
 
-**Sharp Instrument: A Stab at Identifying the Causes of Economic Growth**<br/>
-with Reda Cherif (IMF), Fuad Hasanov (IMF), *Submitted*
+3. [Sharp Instrument: A Stab at Identifying the Causes of Economic Growth] (with Reda Cherif (IMF), Fuad Hasanov (IMF)) 
+   Submitted
 
-**Cheaper Drugs but Higher Bills?** <br/>
-with Jiafeng Wu (UVA), Work in Progress
+4. Cheaper Drugs but Higher Bills? (with Jiafeng Wu (UVA)) 
+   Work in Progress

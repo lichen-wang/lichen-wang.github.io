@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website.
+Welcome
+======
+I am a PhD

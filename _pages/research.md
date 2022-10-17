@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Working Paper
+======
+[Local Economic Effects of the Post-Cold War Procurement Drawdowns] 
+Working Paper
 
-{% include base_path %}
+[The Impacts of International Students on Local Product Markets: Evidence from College Towns]
+Working Paper
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Sharp Instrument: A Stab at Identifying the Causes of Economic Growth] 
+with Reda Cherif (IMF), Fuad Hasanov (IMF), Submitted

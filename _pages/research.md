@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 
-**Local Economic Effects of the Post-Cold War Procurement Drawdowns** <br/>
+1. [Local Economic Effects of the Post-Cold War Procurement Drawdowns](../files/paper1.pdf)
 Working Paper
+   <details><summary>Abstract</summary>   
+  Abstract
+   </details>
+
 
 **The Impacts of International Students on Local Product Markets: Evidence from College Towns** <br/>
 Working Paper <br/>

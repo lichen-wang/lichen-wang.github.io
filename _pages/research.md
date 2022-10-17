@@ -13,8 +13,8 @@ author_profile: true
    </details>
 
 
-2. [The Impacts of International Students on Local Product Markets: Evidence from College Towns] 
-   Working Paper <br/>
+2. [The Impacts of International Students on Local Product Markets: Evidence from College Towns] <br/>
+   Working Paper 
 
 3. [Sharp Instrument: A Stab at Identifying the Causes of Economic Growth] (with Reda Cherif (IMF), Fuad Hasanov (IMF)) 
    Submitted

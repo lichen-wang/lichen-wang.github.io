@@ -9,7 +9,6 @@ author_profile: true
 1. **Local Economic Effects of the Post-Cold War Procurement Drawdowns** <br/>
     Working Paper
    <details><summary>Abstract</summary>   
-   
     Abstract
    </details>
 

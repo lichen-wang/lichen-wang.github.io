@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
+Welcome!
 ======
-I am a PhD
+I am a PhD Candidate in Economics at the University of Virginia. 

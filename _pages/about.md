@@ -10,7 +10,6 @@ redirect_from:
 
 Welcome!
 ======
-<<<<<<< HEAD
 
 I am a PhD Candidate in Economics at the University of Virginia.
 
@@ -20,7 +19,5 @@ My PhD dissertation covers topics on local market dynamics and individual respon
 I also have keen interests in state-of-the-art models that combines causal inferences + machine learning. During my recent internship at Amazon, I studied the heterogeneous treatment effects (HTE) of a targeting program on sellers’ behavioral responses. 
 Prior to my PhD studies, I worked as a research analyst at the International Monetary Fund and an economic consulting company. 
 
-[**CV**](../files/CV_Lichen.pdf)
-=======
-I am a PhD Candidate in Economics at the University of Virginia. 
->>>>>>> adcf4e95dc6968bde7fc2c1d49d95dbdc92874f3
+[**Curriculum Vitae**](../files/CV_Lichen.pdf)
+

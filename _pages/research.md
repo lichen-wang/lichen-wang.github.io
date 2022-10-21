@@ -5,11 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+
+
 1. **Local Economic Effects of the Post-Cold War Procurement Drawdowns** <br/>
     Working Paper
    <details><summary>Abstract</summary>   
     Economic convergence has slowed across places. In the effort to identify factors causing regional disparities, a decline in manufacturing has been cited as a possible culprit. This paper looks through a new angle, a downsizing procurement, and examines the impacts on economic disparities across areas. With the end of the arms race between the USA and the Soviet Union, the US adopted a much more modest defense policy: the domestic defense procurement dropped by more than 40% over a decade. I estimate the causal effects of the drawdowns with an instrumental-variable approach by exploring different procurement types across geographies in the Cold War era. I find that defense drawdowns significantly affected the local labor market at the county level: reducing contracting worth $1,000 per capita in the most impacted defense industries decreases industrial employment by 0.3-0.4 percentage points directly. The other manufacturing sectors cannot entirely absorb the reduced employment in the flagship defense-related sectors. Estimates also show a net adverse spillover effect on the local non-tradable sector, with a magnitude of one-third of the direct impacts. In contrast to declining employment, few impacts were on the civilian wage and the number of establishments. Investigations on the exit options find that the local population responds to a lower labor demand through reduced in-migration but no evidence of increased out-migration. Evidence of workers' limited exit options suggests the need for remedy programs such as place-based policies to alleviate the disproportionate allocation of adverse labor market impacts.
    </details>
+
+
 
 
 

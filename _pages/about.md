@@ -15,5 +15,5 @@ I am a PhD Candidate in Economics at the University of Virginia.
 
 **Research Fields**: Labor Economics, Applied Microeconomics. Econometrics
 
-[**Curriculum Vitae**](../files/CV_Lichen.pdf)
+**Curriculum Vitae**: [CV](../files/CV_Lichen.pdf)
 

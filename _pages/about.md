@@ -15,7 +15,7 @@ I am a PhD Candidate in Economics at the University of Virginia.
 
 **Research Fields**: Labor Economics, Applied Microeconomics. Econometrics
 
-In my dessertation, I apply a wide range of empirical methods to understand the supply side response to demand shocks in the local labor markets. I also have keen interests in the application of new methods that combines causal inferences + machine learning on real-world business questions. During my recent internship at Amazon, I built tools for estimating the heterogeneous treatment effects (HTE) of a targeting program on sellers’ behavioral responses. 
+In my dessertation, I apply a wide range of empirical methods to understand the supply side response to demand shocks in the local labor markets. I also have keen interests in the application of new methods that combine causal inferences + machine learning on real-world business questions. During my recent internship at Amazon, I built tools for estimating the heterogeneous treatment effects (HTE) of a targeting program on sellers’ behavioral responses. 
 
 **Contact**: lw2cb@virginia.edu
 

@@ -16,9 +16,9 @@ author_profile: true
 
 
 2. **The Impacts of International Students on Local Product Markets: Evidence from College Towns** <br/>
-   Working Paper
+   *Work in Progress*
    <details><summary>Abstract</summary> 
-   In the recent 20 years, the total number of students from abroad at U.S. colleges and universities almost doubled, from 0.54 million in 2000 to 1.09 million in 2017. This paper evaluates the consumption impacts of the massive inflows of international students who pursue higher education in the United States. Focusing on cities with a non-negligible size of college students, the analysis exploits the variation of the international student enrollment, and estimates the causal effects on the selected non-traded industry. With an instrumental variable to control for confounding factors, the result supports the existence of the demand contribution and quantifies its magnitude: a 500 increase of international college students into a city with 50,000 baseline population brings about six more food and drinking places. The positive effects are concentrated in small-sized establishments. This paper adds to the impact analysis of international students through the lens of local product market.</details>
+   In the last 20 years, the total number of students from abroad at U.S. colleges and universities almost doubled, from 0.54 million in 2000 to 1.09 million in 2017. This paper evaluates the expenditure impacts of the massive inflows of international students who pursue higher education in the United States. Focusing on college towns – cities with a non-negligible size of college students – the analysis exploits the variation in international student enrollment, and estimates the causal effects on selected non-traded industries. With an instrumental variable to control for confounding factors, the result supports the existence of a demand effect and quantifies its magnitude: an increase of 500 international college students in a city with 50,000 baseline population brings about six more food and drinking places. The positive effects are concentrated in small-sized establishments. This paper adds to the impact analysis of international students through the lens of local product markets.</details>
    
 
 
